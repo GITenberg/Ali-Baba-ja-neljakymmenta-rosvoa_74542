@@ -1,0 +1,31 @@
+_repo: Ali-Baba-ja-neljakymmenta-rosvoa_74542
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Anonymous
+    aliases:
+    - Anonyme
+    - Anonymous, Anonymous
+    gutenberg_agent_id: '216'
+    url: http://www.gutenberg.org/2009/agents/216
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Anonymous_work
+    - http://www.gutenberg.org/ebooks/author/49
+description: ''
+gutenberg_issued: '2024-10-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74542'
+language: fi
+pgterms:marc905: 20241006130824anonymous
+pgterms:marc906: '1925'
+pgterms:marc907: FI
+production_note: Jari Koivisto
+publication_note: '  $aPorvoo :$bWSOY, $c1925.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Ali Baba ja neljäkymmentä rosvoa
+url: http://www.gutenberg.org/ebooks/74542
